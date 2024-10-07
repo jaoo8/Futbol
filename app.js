@@ -24,21 +24,6 @@ function criaCartao(categoria, pergunta, resposta) {
 
 
 
-    container
+    container.appendChild(cartao)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
 }
